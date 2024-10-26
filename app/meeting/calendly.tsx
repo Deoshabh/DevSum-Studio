@@ -9,7 +9,7 @@ const Calendly =  () => {
     <div className="w-full ">
       <InlineWidget
       styles={{ height: "1000px" }}
-      url="https://calendly.com/evilxsumit07/book-a-call" />
+      url="https://https://calendly.com/devsumstudio/30min" />
     </div> );
 }
  
