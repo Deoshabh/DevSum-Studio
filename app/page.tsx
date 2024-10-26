@@ -404,9 +404,9 @@ export default function Home() {
               alt="image"
             />{" "}
           </h1>
-          <p className="text-left  text-xl  text-gray-500">+91xxxxxxx</p>
+          <p className="text-left  text-xl  text-gray-500">+917599917778</p>
           <p className="text-left  text-xl  text-gray-500">
-            DevSumITsolutions@gmail.com
+            DevSumStudio@gmail.com
           </p>
         </div>
 
