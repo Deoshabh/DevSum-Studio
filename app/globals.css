@@ -1,4 +1,11 @@
-@tailwind base;
+@tailwind base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}@tailwind base;
 @tailwind components;
 @tailwind utilities;
 

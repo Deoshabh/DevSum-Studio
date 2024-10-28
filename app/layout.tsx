@@ -11,9 +11,9 @@ export const metadata: Metadata = {
   openGraph: {
     images: [
       {
-        url: 'https://www.google.com/maps/uv?viewerState=lb&pb=!1s0x11ae81c94242f451:0x2a6b0cac40414137!5sGlobstand+technologies&imagekey=!1e10!2sAF1QipPrTTNGxsOszQTXFD3b68e40o0V_LiVsTWwh-H6&cr=rp_35',
+        url: 'https://www.devsumstudio.com/_next/image?url=%2Flogo%2FDevsum.png&w=3840&q=75',
         width: 1200,
-        height: 630,
+        height: 600,
         alt: 'DevSum Logo',
       },
     ],

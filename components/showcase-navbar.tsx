@@ -32,7 +32,7 @@ xl:w-4/5
     >
       <Link href="/">
         <Image
-          src="/logo/Devsum.png"
+          src="/logo/Devsum icon.png"
           alt="DevSum Logo"
           width={1000}
           height={1000}

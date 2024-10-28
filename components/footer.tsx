@@ -14,14 +14,14 @@ const Footer = () => {
             alt="image"
           />{" "}
         </h1>
-        <p className="text-left  text-xl  text-gray-500">+91xxxxxxx</p>
+        <p className="text-left  text-xl  text-gray-500">+917599917778</p>
         <p className="text-left  text-xl  text-gray-500">
-          admin@DevSumsoftware.ca
+        DevSumStudio@gmail.com
         </p>
       </div>
 
       <div className="flex md:justify-center gap-x-4 mt-10">
-        © 2024 DevSum. All Rights Reserved.
+        © 2025 DevSum. All Rights Reserved.
         <Link href="/" className="text-blue-500">
           Privacy Policy
         </Link>
