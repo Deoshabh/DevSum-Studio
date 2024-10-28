@@ -36,7 +36,7 @@ xl:w-4/5
           alt="DevSum Logo"
           width={1000}
           height={1000}
-          className="w-28"
+          className="w-14"
         />
       </Link>
 
