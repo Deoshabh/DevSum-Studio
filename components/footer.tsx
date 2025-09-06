@@ -14,7 +14,7 @@ const Footer = () => {
             alt="image"
           />{" "}
         </h1>
-        <p className="text-left  text-xl  text-gray-500">+917599917778</p>
+  {/* Phone number removed as requested */}
         <p className="text-left  text-xl  text-gray-500">
         DevSumStudio@gmail.com
         </p>
